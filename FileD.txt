@@ -1,1 +1,2 @@
 This is file D
+It is a nice file
